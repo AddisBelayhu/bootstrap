@@ -1,4 +1,4 @@
 # bootstrap
-bootstrap example
-This example help beigner web developers to know how to use bootstrap
+bootstrap example: 
+This task helps beigner website developers to know how to use bootstrap
 techniques.
